@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AE87FD3C-B509-4F92-6F6A-56E5C77349C0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FetchData.cs">
+    <Files>
+      <File FileName="Assets/FetchData.cs" Line="11" Column="19" />
+      <File FileName="Assets/GetData.cs" Line="13" Column="1" />
+      <File FileName="Assets/ImageDownloader.cs" Line="16" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tiles" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FetchData.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ae154b69-6799-49c0-a404-a066268f1beb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
